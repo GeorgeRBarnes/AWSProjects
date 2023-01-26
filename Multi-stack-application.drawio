@@ -1,6 +1,6 @@
-<mxfile modified="2023-01-25T20:41:07.563Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="pLWFzYIPnLavuw6ozxWx" version="20.8.11" type="github">
+<mxfile modified="2023-01-26T15:52:50.263Z" host="app.diagrams.net" agent="5.0 (Macintosh)" etag="mdZ4oJZW-VGXXIkHHYOt" version="20.8.11" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1247" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,9 +112,6 @@
         <mxCell id="4QRxjfR1u28q5DTtSrSD-65" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;strokeColor=#606060;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="689.81" y="100" width="179.06" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="4QRxjfR1u28q5DTtSrSD-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;strokeColor=#606060;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="603.66" y="490" width="225" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="zLqFnhN9I1rzCWaggQR7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" source="4QRxjfR1u28q5DTtSrSD-68" target="4QRxjfR1u28q5DTtSrSD-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -154,7 +151,7 @@
             <mxPoint x="61" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UkgWjjfoPncARp1UeeWx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="4QRxjfR1u28q5DTtSrSD-2" target="4QRxjfR1u28q5DTtSrSD-5">
+        <mxCell id="UkgWjjfoPncARp1UeeWx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=#FFFFFF;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" source="4QRxjfR1u28q5DTtSrSD-2" target="4QRxjfR1u28q5DTtSrSD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4QRxjfR1u28q5DTtSrSD-2" value="&lt;h3 style=&quot;font-size: 18px;&quot;&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;font-size: 18px; --darkreader-inline-color: #e8e6e3;&quot;&gt;DNS Zones&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -163,7 +160,7 @@
         <mxCell id="JdfW3q7XRRElJC6JKNPO-2" value="" style="sketch=0;outlineConnect=0;fontColor=#FFFFFF;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;" parent="1" vertex="1">
           <mxGeometry x="1050" y="36.06" width="75" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="UkgWjjfoPncARp1UeeWx-1" value="&lt;h3 style=&quot;font-size: 18px;&quot;&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;font-size: 18px; --darkreader-inline-color: #e8e6e3;&quot;&gt;&lt;font style=&quot;&quot;&gt;S3&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="UkgWjjfoPncARp1UeeWx-1" value="&lt;h3 style=&quot;font-size: 18px;&quot;&gt;&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;font-size: 18px; --darkreader-inline-color: #e8e6e3;&quot;&gt;&lt;font style=&quot;&quot;&gt;S3&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="985.67" y="120" width="203.66" height="30" as="geometry" />
         </mxCell>
       </root>
